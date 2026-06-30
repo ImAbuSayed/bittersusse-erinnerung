@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bittersusse-erinnerung/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bittersüße Erinnerung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bittersusse-erinnerung/) |
+| **Get License** | [Music Rights & Licensing for Bittersüße Erinnerung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bittersusse-erinnerung/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `92495802f4a255f6f3999e08b17467b1f008397eb2ab0185d155cc6c39d113b9` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
