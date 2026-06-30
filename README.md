@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bittersusse-erinnerung/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bittersüße Erinnerung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bittersusse-erinnerung/) |
+| **Get License** | [Commercial Licensing for Bittersüße Erinnerung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bittersusse-erinnerung/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit df013a479ca3618faa9b3504021841438d863322
+> Mach die Augen zu, Babe, die Skyline brennt.. yeah..
+> Spür den Bass in der Brust, wenn die City uns kennt.. okay..
+> Fahr' den Wagen durch die Nacht, nur wir zwei im V.I.P.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
